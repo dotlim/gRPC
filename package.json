@@ -1,0 +1,26 @@
+{
+  "name": "@dotlim/grpc",
+  "version": "1.0.0",
+  "description": "Asynchronous gRPC client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "google-protobuf": "^3.14.0",
+    "grpc-web": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotlim/gRPC.git"
+  },
+  "keywords": [
+    "gRPC"
+  ],
+  "author": "oxyzhg@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotlim/gRPC/issues"
+  },
+  "homepage": "https://github.com/dotlim/gRPC#readme"
+}
